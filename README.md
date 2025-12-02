@@ -39,12 +39,12 @@
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/>
 </a>
 
-<!-- Sass / SCSS (az kullanıyorsun) -->
+<!-- Sass / SCSS -->
 <a href="https://sass-lang.com/" target="_blank" style="margin-right:15px; opacity:0.6;">
   <img src="https://skillicons.dev/icons?i=sass" width="48" height="48"/>
 </a>
 
-<!-- Tailwind (az kullanıyorsun) -->
+<!-- Tailwind  -->
 <a href="https://tailwindcss.com/" target="_blank" style="margin-right:15px; opacity:0.6;">
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
 </a>
