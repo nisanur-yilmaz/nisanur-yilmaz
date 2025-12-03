@@ -39,29 +39,9 @@
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/>
 </a>
 
-<!-- Sass / SCSS -->
-<a href="https://sass-lang.com/" target="_blank" style="margin-right:20px; opacity:0.6;">
-  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48"/>
-</a>
-
-<!-- Tailwind  -->
-<a href="https://tailwindcss.com/" target="_blank" style="margin-right:20px; opacity:0.6;">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
-</a>
-
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com/" target="_blank" style="margin-right:20px;">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>
-</a>
-
 <!-- C# -->
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=cs" width="48" height="48"/>
-</a>
-
-<!-- ASP.NET Core -->
-<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0" target="_blank" style="margin-right:20px;">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48"/>
 </a>
 
 <!-- SQLite -->
