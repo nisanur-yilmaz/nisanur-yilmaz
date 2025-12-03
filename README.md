@@ -10,62 +10,62 @@
 <p align="left">
 
 <!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right:15px;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>
 </a>
 
 <!-- HTML -->
-<a href="https://www.w3schools.com/html/" target="_blank" style="margin-right:15px;">
+<a href="https://www.w3schools.com/html/" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
 </a>
 
 <!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" style="margin-right:15px;">
+<a href="https://www.w3schools.com/css/" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
 </a>
 
 <!-- React -->
-<a href="https://react.dev/" target="_blank" style="margin-right:15px;">
+<a href="https://react.dev/" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
 </a>
 
 <!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank" style="margin-right:15px;">
+<a href="https://www.typescriptlang.org/" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/>
 </a>
 
 <!-- Next.js -->
-<a href="https://nextjs.org/" target="_blank" style="margin-right:15px;">
+<a href="https://nextjs.org/" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/>
 </a>
 
 <!-- Sass / SCSS -->
-<a href="https://sass-lang.com/" target="_blank" style="margin-right:15px; opacity:0.6;">
+<a href="https://sass-lang.com/" target="_blank" style="margin-right:20px; opacity:0.6;">
   <img src="https://skillicons.dev/icons?i=sass" width="48" height="48"/>
 </a>
 
 <!-- Tailwind  -->
-<a href="https://tailwindcss.com/" target="_blank" style="margin-right:15px; opacity:0.6;">
+<a href="https://tailwindcss.com/" target="_blank" style="margin-right:20px; opacity:0.6;">
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
 </a>
 
 <!-- Bootstrap -->
-<a href="https://getbootstrap.com/" target="_blank" style="margin-right:15px;">
+<a href="https://getbootstrap.com/" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>
 </a>
 
 <!-- C# -->
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="margin-right:15px;">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=cs" width="48" height="48"/>
 </a>
 
 <!-- ASP.NET Core -->
-<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0" target="_blank" style="margin-right:15px;">
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48"/>
 </a>
 
 <!-- SQLite -->
-<a href="https://www.sqlite.org/" target="_blank" style="margin-right:15px;">
+<a href="https://www.sqlite.org/" target="_blank" style="margin-right:20px;">
   <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48"/>
 </a>
 
