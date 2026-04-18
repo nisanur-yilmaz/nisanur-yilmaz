@@ -7,42 +7,14 @@
  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Languages & Tools</b>
 
-<div style="display:flex; gap:15px; flex-wrap:wrap; align-items:center;">
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>
-  </a>
-
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
-  </a>
-
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/>
-  </a>
-
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/>
-  </a>
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs" width="48" height="48"/>
-  </a>
-
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
-  </a>
-
-</div>
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48"/></a>
+<a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" width="48"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="48"/></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="48"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48"/></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48"/></a>
+<a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48"/></a>
+</p>
