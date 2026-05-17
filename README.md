@@ -3,7 +3,7 @@
 ![7d07a255678962d30d8717dcf5dbd266](https://github.com/user-attachments/assets/f6eeb323-d771-4246-8479-d7338de7d277)
 
 
- I’m Nisanur, a Frontend Developer who constantly improves by building modern web applications and focuses on creating effective solutions. I’m currently seeking opportunities to work on projects that will help advance my career.
+ I’m Nisanur, who constantly improves by building modern web applications and focuses on creating effective solutions. I’m currently seeking opportunities to work on projects that will help advance my career.
  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Languages & Tools</b>
 
