@@ -13,7 +13,6 @@
 <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="48"/></a>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="48"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48"/></a>
-<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48"/></a>
 <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48"/></a>
